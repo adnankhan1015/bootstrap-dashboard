@@ -1,9 +1,8 @@
 .backArrow > a {
   text-decoration: none;
   display: inline-block;
-  padding: 3px 12px;
   color: aliceblue;
-  margin: 0.5rem 0.5rem 0.5rem 0rem;
+  margin: 0.5rem 0.2rem 0.5rem -0.7rem;
 }
 
 .round {
